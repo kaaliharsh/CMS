@@ -1,2 +1,2 @@
 # CMS
-This projectr is not fully uploaded due to the file size limit.
+This project is not completely uploaded due to the file size limit.
